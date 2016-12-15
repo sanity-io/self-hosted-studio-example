@@ -1,0 +1,40 @@
+/* such beautiful css */
+html {
+  font-family: sans-serif;
+  font-size: 24px;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  border: 0;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+code {
+  padding: 0.2em;
+  font-size: 85%;
+  background-color: rgba(0, 0, 0, 0.04);
+  border-radius: 3px;
+}
+
+a {
+  text-decoration: none;
+  color: #F04939;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.logo {
+  text-indent: -50000em;
+  background: url(../img/logo.svg) no-repeat;
+  height: 100px;
+}

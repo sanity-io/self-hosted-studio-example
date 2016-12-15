@@ -1,0 +1,31 @@
+{
+  "name": "sanity-spa-example",
+  "version": "1.0.0",
+  "description": "Example of how to serve a built Sanity Studio using node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "PORT=13681 tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanity-io/spa-example.git"
+  },
+  "keywords": [
+    "sanity",
+    "server"
+  ],
+  "author": "Sanity.io <hello@sanity.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanity-io/spa-example/issues"
+  },
+  "homepage": "https://github.com/sanity-io/spa-example#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-history-api-fallback": "^2.1.0"
+  },
+  "devDependencies": {
+    "simple-get": "^2.3.0",
+    "tape": "^4.6.3"
+  }
+}
