@@ -1,5 +1,6 @@
 {
   "name": "sanity-spa-example",
+  "private": true,
   "version": "1.0.0",
   "description": "Example of how to serve a built Sanity Studio using node.js",
   "main": "server.js",
