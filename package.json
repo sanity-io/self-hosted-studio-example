@@ -1,5 +1,5 @@
 {
-  "name": "sanity-spa-example",
+  "name": "sanity-self-hosted-studio-example",
   "private": true,
   "version": "1.0.0",
   "description": "Example of how to serve a built Sanity Studio using node.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanity-io/spa-example.git"
+    "url": "git+https://github.com/sanity-io/self-hosted-studio-example.git"
   },
   "keywords": [
     "sanity",
@@ -18,9 +18,9 @@
   "author": "Sanity.io <hello@sanity.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sanity-io/spa-example/issues"
+    "url": "https://github.com/sanity-io/self-hosted-studio-example/issues"
   },
-  "homepage": "https://github.com/sanity-io/spa-example#readme",
+  "homepage": "https://github.com/sanity-io/self-hosted-studio-example#readme",
   "dependencies": {
     "express": "^4.14.0",
     "express-history-api-fallback": "^2.1.0"
